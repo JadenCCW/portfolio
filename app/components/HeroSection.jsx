@@ -11,7 +11,8 @@ const HeroSection = () => {
                 <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-6xl font-extrabold">
                     <span>hi, i'm jaden</span>
                     <br></br>
-                    <TypeAnimation
+                    <span>
+                    {/* <TypeAnimation
                     sequence={[
                         'i code',
                         1500,
@@ -27,7 +28,8 @@ const HeroSection = () => {
                     wrapper="span"
                     speed={20}
                     repeat={Infinity}
-                    />
+                    /> */}
+                    </span>
                 </h1>
                 <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
                     yadabababdboo
