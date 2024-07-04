@@ -3,25 +3,32 @@ import ProjectCard from "./ProjectCard";
 
 const ProjectsData = [
   {
-    id: 1,
+    id: 97,
+    title: "Client-side Metric Visualization Framework",
+    description:
+      "Framework to collect and view client-side data about website performance in near real time. Data includes user behavior and client-side errors. Utilized React, TypeScript, Express, AWS SDK/CDK, API Gateway, Lambda, Opensearch Serverless, IAM/Cognito, and Kibana. Developed for internal-use within AWS.",
+    image: "/images/projects/97.png",
+  },
+  {
+    id: 98,
     title: "Meowrf Bot",
     description:
       "Multi-purpose Discord bot that runs on multiple servers and has been referenced in over 50,000 commands. Uses Python, AWS, and Docker. I originally developed it because of constant outages with other popular Discord music bots, but added social features throughout it's development.",
-    image: "/images/projects/1.png",
+    image: "/images/projects/98.png",
   },
   {
-    id: 2,
+    id: 99,
     title: "Voice of Books",
     description:
       "E-Book platform to be used by multiple primary schools in Tanzania, Africa. Used React/Node.js, MariaDB, AWS, and Python. Production version is functional and deployed locally. Public version was deprecated (non-functional) in 2022 and is available at voiceofbooks.co.",
-    image: "/images/projects/2.png",
+    image: "/images/projects/99.png",
   },
   {
-    id: 3,
+    id: 100,
     title: "jadenchung.dev",
     description:
       "The website you are looking at right now! Used Next.js (TypeScript), Tailwind, and Vercel. Fun Fact: You can also access this site from meowrf.com!",
-    image: "/images/projects/3.png",
+    image: "/images/projects/100.png",
   },
 ];
 
