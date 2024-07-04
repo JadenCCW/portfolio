@@ -6,7 +6,7 @@ const ProjectsData = [
     id: 96,
     title: "AnonCheckout",
     description:
-      "Google Chrome extension written in Javascript to assume IP from list of proxies, generate unique cookies, spoof HWID and other browser fingerprints, and autofill checkout info. Used Javascript. Developed to efficiently checkout hundreds of limited vinyls and sports cards from Urban Outfitters and Walmart. Generated $80k in profit over 6 months.",
+      "Google Chrome extension written in Javascript to assume IP from list of proxies, generate unique cookies, spoof HWID and other browser fingerprints, and autofill checkout info. Used Javascript. Developed to efficiently checkout hundreds of limited vinyls and sports cards from Urban Outfitters and Fanatics. Generated $80k in profit over 6 months.",
     image: "/images/projects/96.png",
   },
   {
