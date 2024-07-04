@@ -14,12 +14,13 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base md:text-lg  ">
-            My name is Jaden Chung (정운서) and I'm a student at Brown
+            My name is Jaden Chung (정운서) and I&apos;m a student at Brown
             University pursuing a Sc.B in Computer Science! <br></br>
             <br></br>
-            In the past, I've worked with Java, Python, JavaScript/Node.js, AWS,
-            and some other useful developer tools. I've been able to apply these
-            skills during my internships at Amazon Web Services and Microsoft.
+            In the past, I&apos;ve worked with Java, Python, JavaScript/Node.js,
+            AWS, and some other useful developer tools. I&apos;ve been able to
+            apply these skills during my internships at Amazon Web Services and
+            Microsoft.
             <br></br>
             <br></br>
             In my free time, I enjoy cooking, travelling, brewing coffee
