@@ -22,7 +22,7 @@ const HeroSection = () => {
                   1500,
                   "i love taco bell",
                   1500,
-                  "let's create art 🖤",
+                  "hmu if u fw me 🖤",
                   2000,
                 ]}
                 wrapper="span"

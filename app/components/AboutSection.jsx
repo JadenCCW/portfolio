@@ -15,12 +15,14 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base md:text-lg  ">
             My name is Jaden Chung (정운서) and I&apos;m a student at Brown
-            University pursuing a Sc.B in Computer Science! <br></br>
+            University pursuing a Sc.B in Applied Mathematics and Computer
+            Science! <br></br>
             <br></br>
             In the past, I&apos;ve worked with Java, Python, JavaScript/Node.js,
-            AWS, and some other useful developer tools. I&apos;ve been able to
-            apply these skills during my internships at Amazon Web Services and
-            Microsoft.
+            OCaml, C, AWS, and some other useful developer tools. I&apos;ve been
+            able to apply these skills during my internships at Amazon Web
+            Services and Microsoft, and I am excited to bring my skillset to
+            Stripe for the Summer of 2025.
             <br></br>
             <br></br>
             In my free time, I enjoy cooking, travelling, brewing coffee

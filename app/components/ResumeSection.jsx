@@ -16,8 +16,9 @@ const ResumeSection = () => {
         </h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md">
           {" "}
-          I&apos;m currently looking for Summer 2025 opportunities. Connect with
-          me on Linkedin or email me directly at jaden_chung@brown.edu!
+          I&apos;m currently looking for Off-Season 2025 and Summer 2026
+          opportunities. Connect with me on Linkedin or email me directly at
+          jaden_chung@brown.edu!
           <br></br>
           <br></br>
           Feel free to check out my resume as well! 😙
